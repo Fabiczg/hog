@@ -19173,3 +19173,40 @@ body.has-off-canvas-right.off-canvas-show .off-canvas-wrapper-right:after {
   color: #e57e26;
   border-color: #e57e26;
 }
+   #example-wrapper {
+        background: #E8E8E8;
+      }
+      #example-wrapper .well {
+        background: #fff;
+      }
+      #example-wrapper .well:before,
+      #example-wrapper .well:after {
+        content: " ";
+        clear: both;
+        display: table;
+      }
+      #example-wrapper .t1 {
+        font-size: 30px;
+        font-weight: bold;
+        text-transform: uppercase;
+      }
+      #example-wrapper .t2 {
+        font-size: 16px;
+        font-weight: bold;
+      }
+      #example-wrapper .mv-inputbox-wrapper {
+        max-width: 300px;
+      }
+      #example-wrapper .bg-white {
+        background-color: #fff !important;
+      }
+      #example-wrapper .bg-gray {
+        background-color: #F3F3F3 !important;
+      }
+      #example-wrapper .bg-darkblue {
+        background-color: #374456 !important;
+      }
+      #example-wrapper .bg-limegreen {
+        background-color: #02cdb3 !important;
+      }
+      
